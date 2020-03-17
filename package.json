@@ -1,0 +1,17 @@
+{
+  "name": "masters",
+  "version": "1.0.0",
+  "description": "implementation of my masters project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "masters",
+    "iec",
+    "artificial",
+    "intelligence"
+  ],
+  "author": "Renan Spadafora \"Joker\" Amaral",
+  "license": "ISC"
+}
